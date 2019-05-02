@@ -1,0 +1,6 @@
+classifier_data/inception/
+classifier_data/bottlenecks/
+
+classifier_data/label_image.py
+classifier_data/retrained_graph.pb
+classifier_data/retrained_labels.txt
